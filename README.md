@@ -1,13 +1,5 @@
-.... https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/alamin2731.md
-
-
 <h1 align="center">Hi there, I'm Jose <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-
-<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'></img>
-
-
-
 
 <b>About Me</b>
 <br>
