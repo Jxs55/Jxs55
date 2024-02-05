@@ -43,9 +43,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
 
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  </a>
+  
 </p>
 
 
@@ -65,22 +63,11 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
+
+  <a href='https://es.react.dev/' target='_blank'>
+    <img alt='React' src='https://shields.io/badge/react-black?logo=react&style=for-the-badge' />
+ </a>
 </p>
-
-
-### ☁️ Cloud
-
-<p align="left"> 
-  
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white">
-  </a> 
-  
-</p>
-
-
-
-
     
 
 
@@ -105,27 +92,11 @@
   <a href="https://www.mysql.com/" target="_blank"> 
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
-   <a href="https://www.mongodb.com/" target="_blank"> 
-   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>  
  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
   
-</p>
-
-### 🎛️ Operating Systems
-
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
-
- <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
-  </a>
-</p>
-
-    
+</p>  
     
 ### 💻 IDEs/Editors
 
@@ -141,7 +112,6 @@
   
 ### 🥅 Others:
 <a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
 <a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
