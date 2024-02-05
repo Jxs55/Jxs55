@@ -25,10 +25,8 @@
  
 </p>
 
-<br>
-<hr></hr>
 
-<b>Thecnologies</b>
+<hr></hr>
 <br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -36,9 +34,6 @@
 ### 📋 Programming languages
 
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
@@ -92,17 +87,10 @@
 
 ### ♾️ DevOps
 
-<p align="left"> 
-  <a href="https://www.docker.com/" target="_blank"> 
-   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>   
+<p align="left">  
 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
- <a href="https://about.gitlab.com/" target="_blank"> 
-    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
   </a>
   
  <a href="https://github.com/" target="_blank"> 
