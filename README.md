@@ -1,3 +1,5 @@
+.... https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/alamin2731.md
+
 
 <h1 align="center">Hi there, I'm Jose <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
