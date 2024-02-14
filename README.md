@@ -18,10 +18,6 @@
  <a href="https://www.instagram.com/jxs90._">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
-
- <a href="https://discord.com/">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
  
 </p>
 
