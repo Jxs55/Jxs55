@@ -101,11 +101,5 @@
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
 </p>
-  
-### 🥅 Others:
-<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
-<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
-<a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 
 <h1>Hope you have a good day!</h1>
