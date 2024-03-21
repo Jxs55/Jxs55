@@ -3,11 +3,9 @@
 
 <b>About Me</b>
 <br>
--  🔭 I’m currently a student 😉
-- 👯 I’m looking forward to collaborate on React projects.
+-  🔭 I’m currently a student
+- 😊 I’m looking forward to collaborate on React projects and hang out with my friends.
 - 🌱 Learning about Front-end frameworks and tools
-- 💬 Ask me about anything, I am happy to help, I can do anything in my reach!😉
-
 
 <br>
 
@@ -20,8 +18,6 @@
  </a>
  
 </p>
-
-
 <hr></hr>
 <br>
 
@@ -33,6 +29,7 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   
   </a>
 
   
