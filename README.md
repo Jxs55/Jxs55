@@ -35,6 +35,10 @@
     <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
 
+  <a href='https://es.react.dev/' target='_blank'>
+    <img alt='React' src='https://shields.io/badge/react-black?logo=react&style=for-the-badge' />
+ </a>
+
 </p>
 
 
@@ -55,9 +59,6 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
 
-  <a href='https://es.react.dev/' target='_blank'>
-    <img alt='React' src='https://shields.io/badge/react-black?logo=react&style=for-the-badge' />
- </a>
 </p>
     
 
