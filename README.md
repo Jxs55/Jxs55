@@ -32,7 +32,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="NextJs" src="  https://developer.mozilla.org/en-US/search?q=next.js">
+    <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
 
 </p>
