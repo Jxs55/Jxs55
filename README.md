@@ -4,7 +4,7 @@
 <b>About Me</b>
 <br>
 -  🔭 I’m currently a student
-- 😊 I’m looking forward to collaborate on React projects and hang out with my friends.
+- 😊 I’m looking forward to collaborate on React or NextJs projects and hang out with my friends.
 - 🌱 Learning about Front-end frameworks and tools
 
 <br>
