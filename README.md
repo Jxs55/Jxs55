@@ -1,48 +1,27 @@
 <h1 align="center">Hi there, I'm Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 <p align="center">
-  A passionate Web Developer 🌐 | React & Next.js enthusiast ⚛️ | Lifelong learner 📚
+  A passionate student learning Web Development 🌐 | React & Next.js enthusiast ⚛️
 </p>
 
 ---
 
 ### 📌 About Me
 
-- 🎓 Software Development student at **Salesian Technical Institute (ITESA)** (3-year technical degree)  
-- 🏆 Honors: **Outstanding student in programming class** · GPA: **3.8/4**  
-- 🤝 Looking to collaborate on **React**, **Next.js**, **Node.js** or **Full-Stack projects**  
-- 🌱 Continuously learning about **front-end tools**, **backend frameworks**, and **modern workflows**  
-- 💬 Always open to connect, share ideas, and contribute to impactful projects  
+- 🎓 Currently a student exploring the world of web development  
+- 🤝 Looking to collaborate on **React**, **Next.js** or **Node.js** projects  
+- 🌱 Continuously learning about **front-end tools**, **full-stack dev**, and **modern workflows**  
+- 💬 Always open to connect and share ideas  
 
 ---
 
-### 💼 Professional Experience
+### 🔗 Connect with Me
 
-#### **CENTRODHER Dental Clinic** — Santo Domingo  
-*IT Department Manager & Full-Stack Developer*  
-**February 2024 – August 2025**  
-- Developed a comprehensive **Dental Clinic Management System** handling patients, diagnoses, treatments, billing, and clinical notes.  
-- Designed an **interactive tooth visualization tool** to facilitate clinical decisions.  
-- Implemented **secure authentication with NextAuth.js** for better security and efficiency.  
-- **Tech Stack:** Next.js · TypeScript · Prisma ORM · MySQL · TailwindCSS · shadcn/ui · NextAuth.js · Git  
-
-#### **Salesian Technical Institute (ITESA)** — Distrito Nacional  
-*Developer — Competitive System (Rally Scoring)*  
-**April 2025 – May 2025**  
-- Built and deployed a **real-time competitive system** for score, teams, and results management.  
-- Integrated **automatic score calculation** and modern, responsive design.  
-- Optimized **data persistence** with MongoDB for high performance.  
-- **Tech Stack:** Next.js · TypeScript · Prisma ORM · MongoDB · TailwindCSS · Git  
-
----
-
-### 🎓 Education
-
-**Salesian Technical Institute (ITESA)** — Distrito Nacional  
-*3-year Technical Degree in Software Development and Programming*  
-**September 2022 – October 2025**  
-- GPA: **3.8/4**  
-- Honors: **Outstanding student in programming class**  
+<p align="center">
+  <a href="https://www.instagram.com/jxs90._" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -64,9 +43,10 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=radix-ui&logoColor=white"/>
 </p>
 
-#### 🗃️ Databases & ORM
+#### 🗃️ Databases
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -95,12 +75,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
-
----
-
-### 🌍 Languages
-- Spanish: **Native**  
-- English: **Intermediate**  
 
 ---
 
